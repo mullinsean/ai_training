@@ -31,7 +31,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Best practices for building prompt libraries
 
 **Materials**:
-- [Download slide deck](./slides/Workshop_1_LLMs_and_Context_Engineering.pptx)
+- [Download slide deck](./AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
 
 ### Workshop 2: AI for Writing, Analysis & Communications
 **Date**: TBD
