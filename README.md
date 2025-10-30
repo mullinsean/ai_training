@@ -44,7 +44,7 @@ This training program consists of five workshops scheduled over six weeks:
 | 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./2-Sample-Briefing-Note.pdf) |
 
 ### Workshop 2: AI for Writing, Analysis & Communications
-**Date**: TBD
+**Date**: November 14, 2025 @ 2pm EST
 
 **Topics Covered**:
 - Using AI for professional writing and editing
@@ -56,7 +56,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Slide deck *(Coming soon)*
 
 ### Workshop 3: AI for Operational Excellence
-**Date**: TBD
+**Date**: November 19, 2025 @ 2pm EST
 
 **Topics Covered**:
 - Streamlining workflows with AI
@@ -68,7 +68,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Slide deck *(Coming soon)*
 
 ### Workshop 4: AI for Advanced Research Techniques
-**Date**: TBD
+**Date**: December 4, 2025 @ 2pm EST
 
 **Topics Covered**:
 - Advanced search and information gathering
@@ -80,7 +80,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Slide deck *(Coming soon)*
 
 ### Workshop 5: Advanced AI Topics — Coding, Models & Agents
-**Date**: TBD
+**Date**: December 12, 2025 @ 2pm EST
 
 **Topics Covered**:
 - Introduction to coding with AI assistants
