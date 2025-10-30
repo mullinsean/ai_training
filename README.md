@@ -33,6 +33,16 @@ This training program consists of five workshops scheduled over six weeks:
 **Materials**:
 - [Download slide deck](./AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
 
+**Examples**:
+
+| # | Description | Model | Supporting Files |
+|---|-------------|-------|------------------|
+| 1 | [Knowledge cutoff date](https://claude.ai/share/41b9c015-70f5-4d0c-a1b6-1a06b1652622) | Claude Sonnet 4.5 | |
+| 2 | [Speech summary (simple)](https://claude.ai/share/bf761bf1-82ad-4f7a-8cd1-9e1bea823073) | Claude Sonnet 4.5 | |
+| 3 | [Speech summary (with generated prompt)](https://claude.ai/share/00762401-0402-4005-b28a-c2e640ee6b83) | Claude Sonnet 4.5 | |
+| 4 | [Generating a prompt for summarizing a speech](https://claude.ai/share/42ed94b9-8091-4a4c-ab88-ccdc1aa17651) | Claude Sonnet 4.5 | |
+| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./2-Sample-Briefing-Note.pdf) |
+
 ### Workshop 2: AI for Writing, Analysis & Communications
 **Date**: TBD
 
