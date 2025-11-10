@@ -116,6 +116,9 @@ Follow along with these LLM platforms:
 ### AI Economics & Policy
 - [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf)
 
+### Educational Programs
+- [Alberta AI Masterclass](https://masterclass.albertaaiacademy.com/)
+
 ---
 
 ## 📧 Contact
