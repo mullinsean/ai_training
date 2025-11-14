@@ -130,6 +130,9 @@ Follow along with these LLM platforms:
 - **Claude**: [Claude Prompt Engineering Guide](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)
 - **Gemini**: [Gemini Prompting Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
+### Use Cases & Examples
+- [Claude Use Cases](https://claude.com/resources/use-cases) - Real-world examples and applications
+
 ### Video Resources
 - [Andrej Karpathy: "Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Andrej Karpathy: "How I use LLMs"](https://www.youtube.com/watch?v=EWvNQjAaOHw)
