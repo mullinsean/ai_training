@@ -55,6 +55,27 @@ This training program consists of five workshops scheduled over six weeks:
 **Materials**:
 - Slide deck *(Coming soon)*
 
+**Examples**:
+
+#### Writing a Synthesis Memo (Budget 2025 example)
+
+| # | Process Step | Activity | Example |
+|---|--------------|----------|---------|
+| 1 | Prepare Background Materials | Extract key elements of Budget 2025<br>Conduct media + stakeholder scan | Budget 2025 highlights: [chat](https://claude.ai/share/39130465-8e87-42f3-a497-2d8b83e27e0f), [output](https://claude.ai/public/artifacts/a5d8c616-3960-48ef-83d5-d46243902ac4)<br>Media/stakeholder scan: [chat](https://gemini.google.com/share/1f9039ad51ca), [output](https://docs.google.com/document/d/1cPRbp3oeI-QTctMVzrjaasX6Az3CGWKUwMKHyjc17uw/edit?usp=sharing) |
+| 2 | Generate a rough outline of memo | Review and iterate | Rough outline: [chat](https://docs.google.com/document/d/1cPRbp3oeI-QTctMVzrjaasX6Az3CGWKUwMKHyjc17uw/edit?usp=sharing) |
+| 3 | Generate an annotated outline of memo | Include data sources, references | Annotated outline: [chat](https://claude.ai/share/84967d15-7596-49f7-8257-120e4a2473d0), [output](https://claude.ai/public/artifacts/b7066444-4193-4a07-86b3-34f5d3b8c7d8) |
+| 4 | Generate rough draft of memo | Optional: Apply a template and/or style guide<br>Review and iterate | Rough draft: [chat](https://claude.ai/share/073f3710-9039-4dcc-af6b-fb8973d003c9), [output](https://claude.ai/public/artifacts/67051f83-9aec-467f-970f-f3f0eb78a60e) |
+| 5 | Generate final draft of memo | Review, proof-read and iterate | Do this in a word processor! |
+
+#### Generating Additional Documents (Extending the memo)
+
+| # | Document Type | Concept | Example |
+|---|---------------|---------|---------|
+| 1 | Blog Post | Applying a style guide | Creating a style guide: [chat](https://chatgpt.com/share/691755ed-beec-8001-92e9-ece1fcbd2452)<br>Blog post: [chat](https://claude.ai/share/8a5d3762-d62e-4e6c-beae-b86739598718), [output](https://claude.ai/public/artifacts/d511f07e-13bd-4ece-b6a2-a6077da42ee9) |
+| 2 | Social Media Posts | Using examples | Social media posts: [chat](https://claude.ai/share/2ead7529-1d37-4fb5-8ffa-f9cfd7b4f232) |
+| 3 | Article for The Economist | Using Claude Skill to apply a style guide | Creating Claude Skill: [chat](https://claude.ai/share/01171078-5c5f-4c65-bb76-0b690cbf6423), [output](https://claude.ai/public/artifacts/ac89f54e-e0f5-4f4a-9a2e-9f0262831298)<br>Writing article: [chat](https://claude.ai/public/artifacts/ac89f54e-e0f5-4f4a-9a2e-9f0262831298), [output](https://claude.ai/public/artifacts/f60fbd48-02be-4868-a9c3-64cab232ba27) |
+| 4 | Slide deck | Experimental: testing the [perplexity.ai](https://www.perplexity.ai/) slide deck feature | Slide deck: [chat](https://www.perplexity.ai/search/turn-this-into-a-slide-deck-ou-SUrZ5Im5SK2Uv75.FmTaNg?preview=1), [output](https://www.perplexity.ai/apps/6deb94dd-fca6-49f4-b050-0978dbfb4734) |
+
 ### Workshop 3: AI for Operational Excellence
 **Date**: November 19, 2025 @ 2pm EST
 
