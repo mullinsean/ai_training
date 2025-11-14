@@ -53,7 +53,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Document transformation and formatting
 
 **Materials**:
-- Slide deck *(Coming soon)*
+- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%232%20-%202025.11.14.pdf)
 
 **Examples**:
 
