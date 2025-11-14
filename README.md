@@ -31,7 +31,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Best practices for building prompt libraries
 
 **Materials**:
-- [Download slide deck](./AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
+- [Download slide deck](./slide_deck/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
 
 **Examples**:
 
@@ -41,7 +41,7 @@ This training program consists of five workshops scheduled over six weeks:
 | 2 | [Speech summary (simple)](https://claude.ai/share/bf761bf1-82ad-4f7a-8cd1-9e1bea823073) | Claude Sonnet 4.5 | |
 | 3 | [Speech summary (with generated prompt)](https://claude.ai/share/00762401-0402-4005-b28a-c2e640ee6b83) | Claude Sonnet 4.5 | |
 | 4 | [Generating a prompt for summarizing a speech](https://claude.ai/share/42ed94b9-8091-4a4c-ab88-ccdc1aa17651) | Claude Sonnet 4.5 | |
-| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./2-Sample-Briefing-Note.pdf) |
+| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./examples/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./examples/2-Sample-Briefing-Note.pdf) |
 
 ### Workshop 2: AI for Writing, Analysis & Communications
 **Date**: November 14, 2025 @ 2pm EST
@@ -120,6 +120,7 @@ Follow along with these LLM platforms:
 - [Claude](https://claude.ai) - Anthropic's AI assistant
 - [ChatGPT](https://chat.openai.com) - OpenAI's conversational AI
 - [Google Gemini](https://gemini.google.com) - Google's multimodal AI
+- [Perplexity](https://www.perplexity.ai) - AI-powered search and answer engine
 
 ---
 
@@ -132,6 +133,7 @@ Follow along with these LLM platforms:
 
 ### Use Cases & Examples
 - [Claude Use Cases](https://claude.com/resources/use-cases) - Real-world examples and applications
+- [ChatGPT for Government: Prompt-Pack for Leaders (OpenAI Academy)](https://academy.openai.com/home/blogs/government-prompt-pack-for-leaders) - Practical prompts for government leaders
 
 ### Video Resources
 - [Andrej Karpathy: "Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -142,6 +144,8 @@ Follow along with these LLM platforms:
 
 ### Educational Programs
 - [Alberta AI Masterclass](https://masterclass.albertaaiacademy.com/)
+- [Using Generative AI - University of Waterloo Writing Centre](https://uwaterloo.ca/writing-and-communication-centre/Resources-AI-Overview) - Writing and communication guidance for AI use
+- [Guide on the Use of Generative AI (Government of Canada)](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) - Official guidance on responsible AI use
 
 ---
 
