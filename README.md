@@ -191,4 +191,4 @@ These materials are provided for educational purposes for training participants.
 
 ---
 
-*Last updated: October 29, 2025*
+*Last updated: November 19, 2025*
