@@ -1,0 +1,93 @@
+﻿Understanding the tables,,
+Conventional/hybrid vehicles,,
+Column header,Description,Additional notes
+Model year,The year used by the manufacturer to designate a model of vehicle,"To help you compare vehicles from different model years, fuel consumption ratings for 1995 to 2014 vehicles have been adjusted to reflect the 5-cycle testing procedure. Note that these are approximate values that were generated from the original ratings, not from vehicle testing."
+Make,The manufacturer of the vehicle,n/a
+Model,The model name of the vehicle,"AWD = All-wheel drive – vehicle designed to operate with all wheels powered
+4WD/4X4 = Four-wheel drive – vehicle designed to operate with either two wheels or four wheels powered
+FFV = Flexible-fuel vehicle – vehicle designed to operate on gasoline and ethanol blends of up to 85% ethanol (E85)
+CNG = Compressed natural gas; NGV = Natural gas vehicle
+SWB = Short wheelbase; LWB = Long wheelbase; EWB = Extended wheelbase
+# = High output engine"
+Vehicle class,Classification of the vehicle based on interior volume for cars and gross vehicle weight rating for light trucks,"For details, visit https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383
+"
+Engine size (L),Total displacement of all cylinders (in litres),"n/a
+"
+Cylinders,Number of engine cylinders,"n/a
+"
+Transmission,The type of transmission and number of gears/speeds,A = Automatic; AM = Automated manual; AS = Automatic with select shift; AV = Continuously variable; M = Manual
+Fuel type,The type of fuel used to power the vehicle,"X = Regular gasoline; Z = Premium gasoline; D = Diesel; E = E85; N = Natural Gas
+For FFVs, consumption values are provided for both gasoline and E85."
+City (L/100 km),City fuel consumption rating shown in litres per 100 kilometres,The city rating represents urban driving in stop-and-go traffic.
+Highway (L/100 km),Highway fuel consumption rating shown in litres per 100 kilometres,"The highway rating represents a mix of open highway and rural road driving, typical of longer trips."
+Combined (L/100 km),Combined fuel consumption rating shown in litres per 100 kilometres,The combined rating reflects 55% city driving and 45% highway driving.
+Combined (mpg),The combined rating expressed in miles per imperial gallon,"n/a
+"
+CO2 emissions (g/km),The vehicle's tailpipe emissions of carbon dioxide shown in grams per kilometre for combined city and highway driving,"n/a
+"
+CO2 rating,The vehicle's tailpipe emissions of carbon dioxide rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Smog rating,The vehicle's tailpipe emissions of smog-forming pollutants rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Plug-in hybrid electric vehicles,,
+Column header,Description,Additional notes
+Model year,The year used by the manufacturer to designate a model of vehicle,"To help you compare vehicles from different model years, fuel consumption ratings for 1995 to 2014 vehicles have been adjusted to reflect the 5-cycle testing procedure. Note that these are approximate values that were generated from the original ratings, not from vehicle testing."
+Make,The manufacturer of the vehicle,"n/a
+"
+Model,The model name of the vehicle,AWD = All-wheel drive – vehicle designed to operate with all wheels powered
+Vehicle class,Classification of the vehicle based on interior volume for cars and gross vehicle weight rating for light trucks,"For details, visit https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383
+"
+Motor (kW),Electric motor peak power output (in kilowatts),"n/a
+"
+Engine size (L),Total displacement of all cylinders (in litres),"n/a
+"
+Cylinders,Number of engine cylinders,"n/a
+"
+Transmission,The type of transmission and number of gears/speeds,A = Automatic; AM = Automated manual; AS = Automatic with select shift; AV = Continuously variable
+Fuel type 1,The type of fuel used to power the vehicle in electric mode,"B = Electricity; X = Regular gasoline; Z = Premium gasoline
+In electric mode, a series plug-in hybrid electric vehicle uses electricity only. A blended plug-in hybrid electric vehicle may operate using electricity only or both electricity and gasoline.
+An asterisk (*) indicates that in testing, this vehicle did not use any gasoline during electric mode operation. However, depending on how you drive the vehicle, you may use gasoline during electric mode operation following a full charge."
+Combined Le/100 km,Combined fuel consumption rating for electric mode operation expressed in gasoline litres equivalent per 100 kilometres. Electricity consumption in kilowatt hours per 100 kilometres and gasoline consumption (where applicable) in litres per 100 kilometres are shown in parentheses.,The combined rating reflects 55% city driving and 45% highway driving. One litre of gasoline contains the energy equivalent to 8.9 kWh of electricity.
+Range 1 (km),Estimated driving distance (in kilometres) on a fully charged battery,"n/a
+"
+Recharge time (h),Estimated time (in hours) to fully recharge the battery at 240 volts,"n/a
+"
+Fuel type 2,The type of fuel used to power the vehicle in gasoline-only mode,X = Regular gasoline; Z = Premium gasoline
+City (L/100 km),City fuel consumption rating for gasoline-only mode shown in litres per 100 kilometres,The city rating represents urban driving in stop-and-go traffic.
+Highway (L/100 km),Highway fuel consumption rating for gasoline-only mode shown in litres per 100 kilometres,"The highway rating represents a mix of open highway and rural road driving, typical of longer trips."
+Combined (L/100 km),Combined fuel consumption rating for gasoline-only mode shown in litres per 100 kilometres,The combined rating reflects 55% city driving and 45% highway driving.
+Range 2 (km),Estimated driving distance (in kilometres) on a full tank of fuel,"n/a
+"
+CO2 emissions (g/km),The vehicle's tailpipe emissions of carbon dioxide shown in grams per kilometre for combined city and highway driving,"For plug-in hybrid electric vehicles, CO2 emissions values reflect a mix of electric mode and gasoline-only operation."
+CO2 rating,The vehicle's tailpipe emissions of carbon dioxide rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Smog rating,The vehicle's tailpipe emissions of smog-forming pollutants rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Battery-electric vehicles,,
+Column header,Description,Additional notes
+Model year,The year used by the manufacturer to designate a model of vehicle,"To help you compare vehicles from different model years, fuel consumption ratings for 1995 to 2014 vehicles have been adjusted to reflect the 5-cycle testing procedure. Note that these are approximate values that were generated from the original ratings, not from vehicle testing."
+Make,The manufacturer of the vehicle,"n/a
+"
+Model,The model name of the vehicle,"AWD = All-wheel drive – vehicle designed to operate with all wheels powered
+"
+Vehicle class,Classification of the vehicle based on interior volume for cars and gross vehicle weight rating for light trucks,"For details, visit https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383
+"
+Motor (kW),Electric motor peak power output (in kilowatts),"n/a
+"
+Transmission,The type of transmission and number of gears/speeds,A = Automatic
+Fuel type,The type of fuel used to power the vehicle,B = Electricity
+City (kWh/100 km),City fuel consumption rating shown in kilowatt hours per 100 kilometres,The city rating represents urban driving in stop-and-go traffic.
+Highway (kWh/100 km),Highway fuel consumption rating shown in kilowatt hours per 100 kilometres,"The highway rating represents a mix of open highway and rural road driving, typical of longer trips."
+Combined (kWh/100 km),Combined fuel consumption rating shown in kilowatt hours per 100 kilometres,The combined rating reflects 55% city driving and 45% highway driving.
+City (Le/100 km),City fuel consumption rating expressed in gasoline litres equivalent per 100 kilometres,One litre of gasoline contains the energy equivalent to 8.9 kWh of electricity.
+Highway  (Le/100 km),Highway fuel consumption rating expressed in gasoline litres equivalent per 100 kilometres,One litre of gasoline contains the energy equivalent to 8.9 kWh of electricity.
+Combined (Le/100 km),Combined fuel consumption rating expressed in gasoline litres equivalent per 100 kilometres,One litre of gasoline contains the energy equivalent to 8.9 kWh of electricity.
+Range (km),The estimated driving distance (in kilometres) on a fully charged battery,"n/a
+"
+CO2 emissions (g/km),The vehicle's tailpipe emissions of carbon dioxide shown in grams per kilometre for combined city and highway driving,Battery-electric vehicles produce zero tailpipe emissions.
+CO2 rating,The vehicle's tailpipe emissions of carbon dioxide rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Smog rating,The vehicle's tailpipe emissions of smog-forming pollutants rated on a scale from 1 (worst) to 10 (best),"n/a
+"
+Recharge time (h),Estimated time (in hours) to fully recharge the battery at 240 volts,"n/a
+"
