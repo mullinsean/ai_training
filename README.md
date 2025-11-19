@@ -31,7 +31,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Best practices for building prompt libraries
 
 **Materials**:
-- [Download slide deck](./slide_deck/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf?raw=1)
+- [Download slide deck](./slide_decks/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf?raw=1)
 
 **Examples**:
 
