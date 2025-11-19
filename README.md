@@ -31,7 +31,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Best practices for building prompt libraries
 
 **Materials**:
-- [Download slide deck](./slide_deck/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
+- [Download slide deck](./slide_deck/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf?raw=1)
 
 **Examples**:
 
@@ -41,7 +41,7 @@ This training program consists of five workshops scheduled over six weeks:
 | 2 | [Speech summary (simple)](https://claude.ai/share/bf761bf1-82ad-4f7a-8cd1-9e1bea823073) | Claude Sonnet 4.5 | |
 | 3 | [Speech summary (with generated prompt)](https://claude.ai/share/00762401-0402-4005-b28a-c2e640ee6b83) | Claude Sonnet 4.5 | |
 | 4 | [Generating a prompt for summarizing a speech](https://claude.ai/share/42ed94b9-8091-4a4c-ab88-ccdc1aa17651) | Claude Sonnet 4.5 | |
-| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./examples/workshop1/2-Sample-Briefing-Note.pdf) |
+| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf?raw=1), [file 2](./examples/workshop1/2-Sample-Briefing-Note.pdf?raw=1) |
 
 ### Workshop 2: AI for Writing, Analysis & Communications
 **Date**: November 14, 2025 @ 2pm EST
@@ -53,7 +53,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Document transformation and formatting
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%232%20-%202025.11.14.pdf)
+- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%232%20-%202025.11.14.pdf?raw=1)
 
 **Examples**:
 
@@ -92,10 +92,10 @@ This training program consists of five workshops scheduled over six weeks:
 
 | # | File Name | Description |
 |---|-----------|-------------|
-| 1 | [Project Overview Example (Beyond Zero).pdf](./examples/workshop3/Project%20Overview%20Example%20(Beyond%20Zero).pdf) | Sample project overview document |
-| 2 | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx) | Fuel economy data analysis |
-| 3 | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx) | Hybrid vehicle breakeven calculator |
-| 4 | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx) | Hybrid vehicle improvements data |
+| 1 | [Project Overview Example (Beyond Zero).pdf](./examples/workshop3/Project%20Overview%20Example%20(Beyond%20Zero).pdf?raw=1) | Sample project overview document |
+| 2 | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) | Fuel economy data analysis |
+| 3 | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) | Hybrid vehicle breakeven calculator |
+| 4 | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) | Hybrid vehicle improvements data |
 
 ### Workshop 4: AI for Advanced Research Techniques
 **Date**: December 4, 2025 @ 2pm EST
@@ -149,7 +149,7 @@ Follow along with these LLM platforms:
 - [Andrej Karpathy: "How I use LLMs"](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
 ### AI Economics & Policy
-- [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf)
+- [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf?raw=1)
 
 ### Educational Programs
 - [Alberta AI Masterclass](https://masterclass.albertaaiacademy.com/)
