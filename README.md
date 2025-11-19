@@ -96,7 +96,6 @@ This training program consists of five workshops scheduled over six weeks:
 | 2 | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx) | Fuel economy data analysis |
 | 3 | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx) | Hybrid vehicle breakeven calculator |
 | 4 | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx) | Hybrid vehicle improvements data |
-| 5 | [understanding-the-tables.csv](./examples/workshop3/understanding-the-tables.csv) | Data tables reference |
 
 ### Workshop 4: AI for Advanced Research Techniques
 **Date**: December 4, 2025 @ 2pm EST
