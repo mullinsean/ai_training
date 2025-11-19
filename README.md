@@ -110,7 +110,7 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 - **Slide 14**: [NotebookLM for research synthesis](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) - Example exploring rapid AI adoption research
 
 ### Workshop 4: AI for Advanced Research Techniques
-**Date**: December 4, 2025 @ 2pm EST
+**Date**: December 2, 2025 @ 2pm EST
 
 **Topics Covered**:
 - Advanced search and information gathering
