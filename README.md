@@ -80,22 +80,33 @@ This training program consists of five workshops scheduled over six weeks:
 **Date**: November 19, 2025 @ 2pm EST
 
 **Topics Covered**:
-- Streamlining workflows with AI
-- Process automation and efficiency
-- Task management and prioritization
-- Operational documentation
+- AI for project management workflows
+- Connecting to data sources (direct uploads, project files, shared drives, MCP)
+- Data and quantitative analysis with Excel
+- Productivity techniques (scheduling, image generation, research analysis)
+- Enhancing creativity through brainstorming and prototyping
 
 **Materials**:
-- Slide deck *(Coming soon)*
+- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%233%20-%202025.11.19.pdf?raw=1)
 
 **Examples**:
 
-| # | File Name | Description |
-|---|-----------|-------------|
-| 1 | [Project Overview Example (Beyond Zero).pdf](./examples/workshop3/Project%20Overview%20Example%20(Beyond%20Zero).pdf?raw=1) | Sample project overview document |
-| 2 | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) | Fuel economy data analysis |
-| 3 | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) | Hybrid vehicle breakeven calculator |
-| 4 | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) | Hybrid vehicle improvements data |
+#### Project Management (Slide 6)
+- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20(Beyond%20Zero).pdf?raw=1) - Sample project overview document for context
+
+#### Data Analysis with Excel (Slide 11)
+Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64):
+
+| # | Process Step | Activity | Files |
+|---|--------------|----------|-------|
+| 1 | Explore Data Set | Generate table of average fuel efficiency by manufacturer | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) |
+| 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) |
+| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
+
+#### Productivity Techniques (Slides 12-14)
+- **Slide 12**: [Scheduling research in ChatGPT](https://chatgpt.com/) - Automate weekly queries and analysis
+- **Slide 13**: [Image generation with Gemini 2.5 Flash Image](https://gemini.google.com/) - Create and edit images using text prompts
+- **Slide 14**: [NotebookLM for research synthesis](https://notebooklm.google.com/) - Explore and analyze multiple documents with citations
 
 ### Workshop 4: AI for Advanced Research Techniques
 **Date**: December 4, 2025 @ 2pm EST
@@ -143,6 +154,13 @@ Follow along with these LLM platforms:
 ### Use Cases & Examples
 - [Claude Use Cases](https://claude.com/resources/use-cases) - Real-world examples and applications
 - [ChatGPT for Government: Prompt-Pack for Leaders (OpenAI Academy)](https://academy.openai.com/home/blogs/government-prompt-pack-for-leaders) - Practical prompts for government leaders
+
+### Project Management & Operational Excellence
+- [AI Use Cases in Project Management](https://thedigitalprojectmanager.com/project-management/ai-use-cases-in-project-management/) - Comprehensive guide to AI applications in PM
+- [NotebookLM: The Complete Guide](https://medium.com/@shivashanker7337/notebooklm-the-complete-guide-updated-october-2025-1c9ebf5c14f6) - Detailed guide to Google's research tool
+- [Introducing Gemini 2.5 Flash Image ("Nano Banana")](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/) - Google's image generation and editing model
+- [Claude can now create Excel files and PowerPoints](https://www.tomsguide.com/ai/claude/claude-can-now-create-excel-files-and-powerpoints-for-you-heres-how-to-use-this-new-feature) - Tutorial on Claude's spreadsheet capabilities
+- [Advancing Claude for Financial Services](https://www.anthropic.com/news/advancing-claude-for-financial-services) - Claude's enhanced data analysis features
 
 ### Video Resources
 - [Andrej Karpathy: "Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g)
