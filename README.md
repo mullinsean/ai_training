@@ -101,7 +101,7 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 |---|--------------|----------|-----------------|---------|
 | 1 | Explore Data Set | Generate table of average fuel efficiency by manufacturer | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [csv](https://claude.ai/public/artifacts/1beaf9e3-ae3c-4570-838a-8eec5c4b8da7), [md](https://claude.ai/public/artifacts/ea5fd518-5e90-4477-b3f1-0bf785679df8) |
 | 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) |
-| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | [fuel efficiency xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1), [hybrid intro xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
+| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | fuel efficiency: [xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) hybrid intro: [xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
 | 4 | Generating Insights | Ask model to generate insights from the data | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | [md](https://claude.ai/public/artifacts/c990ca4a-383e-4794-9a84-a9d728653e75) |
 
 #### Productivity Techniques (Slides 12-14)
