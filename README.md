@@ -97,16 +97,17 @@ This training program consists of five workshops scheduled over six weeks:
 #### Data Analysis with Excel (Slide 11)
 Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64):
 
-| # | Process Step | Activity | Files |
-|---|--------------|----------|-------|
-| 1 | Explore Data Set | Generate table of average fuel efficiency by manufacturer | [fuel_economy_analysis.xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) |
-| 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [hybrid_breakeven_calculatorv2.xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) |
-| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [hybrid_improvements.xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
+| # | Process Step | Activity | Chat Transcript | Outputs |
+|---|--------------|----------|-----------------|---------|
+| 1 | Explore Data Set | Generate table of average fuel efficiency by manufacturer | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [csv](https://claude.ai/public/artifacts/1beaf9e3-ae3c-4570-838a-8eec5c4b8da7), [md](https://claude.ai/public/artifacts/ea5fd518-5e90-4477-b3f1-0bf785679df8) |
+| 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) |
+| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | [fuel efficiency xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1), [hybrid intro xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
+| 4 | Generating Insights | Ask model to generate insights from the data | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | [md](https://claude.ai/public/artifacts/c990ca4a-383e-4794-9a84-a9d728653e75) |
 
 #### Productivity Techniques (Slides 12-14)
-- **Slide 12**: [Scheduling research in ChatGPT](https://chatgpt.com/) - Automate weekly queries and analysis
-- **Slide 13**: [Image generation with Gemini 2.5 Flash Image](https://gemini.google.com/) - Create and edit images using text prompts
-- **Slide 14**: [NotebookLM for research synthesis](https://notebooklm.google.com/) - Explore and analyze multiple documents with citations
+- **Slide 12**: [Scheduling research in ChatGPT](https://chatgpt.com/share/691dcf3f-9234-8001-bedd-beb52d2650f0) - Example of automated weekly macro brief
+- **Slide 13**: [Image generation with Gemini 2.5 Flash Image](https://gemini.google.com/app/09fce6860b70c65e) - Example of image editing using text prompts
+- **Slide 14**: [NotebookLM for research synthesis](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) - Example exploring rapid AI adoption research
 
 ### Workshop 4: AI for Advanced Research Techniques
 **Date**: December 4, 2025 @ 2pm EST
