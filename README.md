@@ -7,10 +7,10 @@ Welcome to the AI Adoption Training materials repository! This five-workshop ser
 This training program consists of five workshops scheduled over six weeks:
 
 1. **Workshop 1**: Introduction to LLMs & Context Engineering *(2 hours)*
-2. **Workshop 2**: AI for Writing, Analysis & Communications *(1 hour)*
-3. **Workshop 3**: AI for Operational Excellence *(1 hour)*
-4. **Workshop 4**: AI for Advanced Research Techniques *(1 hour)*
-5. **Workshop 5**: Advanced AI Topics — Coding, Models & Agents *(1 hour)*
+2. **Workshop 2**: AI for Writing, Analysis & Communications *(1.5 hours)*
+3. **Workshop 3**: AI for Operational Excellence *(1.5 hours)*
+4. **Workshop 4**: AI for Advanced Research Techniques *(1.5 hours)*
+5. **Workshop 5**: Advanced AI Topics — Coding, Models & Agents *(1.5 hours)*
 
 **Recommendation**: Join Workshop 1 to build foundational knowledge, then select additional workshops based on your interests and work needs.
 
