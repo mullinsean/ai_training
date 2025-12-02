@@ -113,13 +113,50 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 **Date**: December 2, 2025 @ 2pm EST
 
 **Topics Covered**:
-- Advanced search and information gathering
-- Literature review and synthesis
-- Data analysis and visualization
-- Research documentation and reporting
+- Finding information with LLMs (web search, document extraction)
+- Deep Research features (agentic research tools)
+- Research tools: NotebookLM and Zotero integration
+- Advanced research techniques (comparison matrix, red teaming, gap analysis)
+- Reading and reviewing academic papers with LLMs
 
 **Materials**:
-- Slide deck *(Coming soon)*
+- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%234%20-%202025.12.02.pdf?raw=1)
+
+**Examples**:
+
+#### Deep Research - Example Applications (Slide 6)
+
+| Use Case | Example | Model | Outputs |
+|----------|---------|-------|---------|
+| General overview of new topic | Overview of the geopolitical situation in South Korea | ChatGPT | [chat](https://chatgpt.com/share/6763e7dc-0b94-8001-93ee-33f05ba0f91a), [pdf](./examples/workshop4/ChatGPT%20-%20Overview%20of%20Geopolitical%20Situation%20in%20South%20Korea.pdf?raw=1) |
+| Deep dive into legislative process | History of Bill C-27 (Digital Charter Act) | Gemini | [chat](https://gemini.google.com/share/98f84c23e8a7), [pdf](./examples/workshop4/Gemini%20-%20Deep%20Dive%20into%20Bill%20C-27.pdf?raw=1) |
+| Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/18c05f2ee17e), [pdf](./examples/workshop4/Gemini%20-%20Media%20and%20Stakeholder%20Reception%20to%20Budget%202025.pdf?raw=1) |
+| Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analyze-the-financial-performa-g4SdxD1XTAmGAWZ5zfH02A), [pdf](./examples/workshop4/Perplexity.ai%20-%20Financial%20Analysis%20of%20Nuclear%20Sector.pdf?raw=1) |
+
+#### Research Tools: NotebookLM (Slide 12)
+- [NotebookLM](https://notebooklm.google.com) - Google's specialized research tool for multi-document analysis
+- Key Features:
+  - Summarize and interrogate up to 50 sources (PDFs, text, Word docs, audio, video)
+  - Generate mind maps of themes and connections
+  - Create audio overviews ("podcast" discussions)
+  - Generate infographics and slide decks with Gemini Pro 3.0
+  - Run LLM searches or Deep Research queries inside Notebook
+- Example: [Using NotebookLM with Gemini to analyze multiple papers](https://gemini.google.com/share/ab0a7d5ce6ea)
+
+#### Research Tools: Zotero + LLMs (Slide 13)
+- [Zotero](https://www.zotero.org) - Free, open-source research tool for organizing sources
+- Integration with LLMs:
+  - Build collections of sources for different projects
+  - Include Deep Research query results
+  - Drag PDFs from Zotero into LLMs or NotebookLM for analysis
+  - Save LLM-generated notes and summaries back to Zotero
+  - Maintains "source of truth" outside chat sessions
+  - Store project-specific LLM prompts for recurring tasks
+
+**Additional Reading** (Slide 17):
+- [AI Agents for Economic Research](https://www.nber.org/papers/w32825) - Anton Korinek (August 2025): Guide to using agentic AI tools for research
+- [Generative AI for Economic Research: Use Cases and Implications](https://www.nber.org/papers/w32281) - Anton Korinek (December 2024): Comprehensive overview of LLM applications in research
+- Note: While focused on economics, techniques generalize to other academic and applied research fields
 
 ### Workshop 5: Advanced AI Topics — Coding, Models & Agents
 **Date**: December 12, 2025 @ 2pm EST
@@ -191,4 +228,4 @@ These materials are provided for educational purposes for training participants.
 
 ---
 
-*Last updated: November 19, 2025*
+*Last updated: December 2, 2025*
