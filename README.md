@@ -128,15 +128,15 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 
 | Use Case | Example | Model | Outputs |
 |----------|---------|-------|---------|
-| General overview of new topic | Overview of the geopolitical situation in South Korea | ChatGPT | [chat](https://chatgpt.com/share/6763e7dc-0b94-8001-93ee-33f05ba0f91a), [pdf](./examples/workshop4/ChatGPT%20-%20Overview%20of%20Geopolitical%20Situation%20in%20South%20Korea.pdf?raw=1) |
-| Deep dive into legislative process | History of Bill C-27 (Digital Charter Act) | Gemini | [chat](https://gemini.google.com/share/98f84c23e8a7), [pdf](./examples/workshop4/Gemini%20-%20Deep%20Dive%20into%20Bill%20C-27.pdf?raw=1) |
-| Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/18c05f2ee17e), [pdf](./examples/workshop4/Gemini%20-%20Media%20and%20Stakeholder%20Reception%20to%20Budget%202025.pdf?raw=1) |
-| Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analyze-the-financial-performa-g4SdxD1XTAmGAWZ5zfH02A), [pdf](./examples/workshop4/Perplexity.ai%20-%20Financial%20Analysis%20of%20Nuclear%20Sector.pdf?raw=1) |
+| General overview of new topic | Overview of the geopolitical situation in South Korea | ChatGPT | [chat](https://chatgpt.com/share/692efd6c-e05c-8001-8c6c-c5dd1bb8ebcd), [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20(2022%E2%80%932025).pdf?raw=1) |
+| Deep dive into legislative process | History of Bill C-27 (Digital Charter Act) | Gemini | [chat](https://gemini.google.com/share/a07a94650ae7), [pdf](./examples/workshop4/Bill%20C-27%20Hansard%20Review.pdf?raw=1) |
+| Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/1f9039ad51ca), [pdf](./examples/workshop4/Budget%202025%20Climate%20Policy%20Scan.pdf?raw=1) |
+| Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analysis-financial-results-fro-RnymxZX6S.mVS7.dGUVJEw#0), [pdf](./examples/workshop4/Financial%20Results%20from%20Companies%20in%20the%20Nuclear%20Sector.pdf?raw=1) |
 
 #### Research Tools and Advanced Techniques (Slides 12, 13, 16)
-- **Slide 12**: [NotebookLM example - analyzing multiple papers with Gemini](https://gemini.google.com/share/ab0a7d5ce6ea) - Using NotebookLM for multi-document research synthesis
+- **Slide 12**: [NotebookLM example](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) - Using NotebookLM for multi-document research synthesis
 - **Slide 13**: [Zotero integration with LLMs](https://www.zotero.org) - Organizing research sources and integrating with AI tools
-- **Slide 16**: [Advanced techniques - comparison matrix and gap analysis](https://gemini.google.com/share/ab0a7d5ce6ea) - Using Gemini to compare papers, build comparison charts, and identify research gaps
+- **Slide 16**: [Advanced techniques - comparison matrix and gap analysis](https://gemini.google.com/share/d99984963a11) - Using Gemini to compare papers, build comparison charts, and identify research gaps
 
 ### Workshop 5: Advanced AI Topics — Coding, Models & Agents
 **Date**: December 12, 2025 @ 2pm EST
@@ -185,8 +185,8 @@ Follow along with these LLM platforms:
 - [Andrej Karpathy: "How I use LLMs"](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
 ### AI for Research
-- [AI Agents for Economic Research](https://www.nber.org/papers/w32825) - Anton Korinek (August 2025): Guide to using agentic AI tools for research tasks
-- [Generative AI for Economic Research: Use Cases and Implications](https://www.nber.org/papers/w32281) - Anton Korinek (December 2024): Comprehensive overview of LLM applications in research
+- [Anton Korinek - AI Agents for Economic Research](https://www.genaiforecon.org/JEL-2025-Aug-AIAgents.pdf) (August 2025): Guide to using agentic AI tools for research tasks
+- [Anton Korinek - Generative AI for Economic Research: Use Cases and Implications](https://genaiforecon.org/JEL-2024-Dec-LLMsCollaborateReason.pdf) (December 2024): Comprehensive overview of LLM applications in research
 - Note: While focused on economics, techniques generalize to other academic and applied research fields
 
 ### AI Economics & Policy
