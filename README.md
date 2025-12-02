@@ -92,7 +92,7 @@ This training program consists of five workshops scheduled over six weeks:
 **Examples**:
 
 #### Project Management (Slide 6)
-- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20(Beyond%20Zero).pdf?raw=1) - Sample project overview document for context
+- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20%28Beyond%20Zero%29.pdf?raw=1) - Sample project overview document for context
 
 #### Data Analysis with Excel (Slide 11)
 Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64):
@@ -133,30 +133,10 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 | Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/18c05f2ee17e), [pdf](./examples/workshop4/Gemini%20-%20Media%20and%20Stakeholder%20Reception%20to%20Budget%202025.pdf?raw=1) |
 | Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analyze-the-financial-performa-g4SdxD1XTAmGAWZ5zfH02A), [pdf](./examples/workshop4/Perplexity.ai%20-%20Financial%20Analysis%20of%20Nuclear%20Sector.pdf?raw=1) |
 
-#### Research Tools: NotebookLM (Slide 12)
-- [NotebookLM](https://notebooklm.google.com) - Google's specialized research tool for multi-document analysis
-- Key Features:
-  - Summarize and interrogate up to 50 sources (PDFs, text, Word docs, audio, video)
-  - Generate mind maps of themes and connections
-  - Create audio overviews ("podcast" discussions)
-  - Generate infographics and slide decks with Gemini Pro 3.0
-  - Run LLM searches or Deep Research queries inside Notebook
-- Example: [Using NotebookLM with Gemini to analyze multiple papers](https://gemini.google.com/share/ab0a7d5ce6ea)
-
-#### Research Tools: Zotero + LLMs (Slide 13)
-- [Zotero](https://www.zotero.org) - Free, open-source research tool for organizing sources
-- Integration with LLMs:
-  - Build collections of sources for different projects
-  - Include Deep Research query results
-  - Drag PDFs from Zotero into LLMs or NotebookLM for analysis
-  - Save LLM-generated notes and summaries back to Zotero
-  - Maintains "source of truth" outside chat sessions
-  - Store project-specific LLM prompts for recurring tasks
-
-**Additional Reading** (Slide 17):
-- [AI Agents for Economic Research](https://www.nber.org/papers/w32825) - Anton Korinek (August 2025): Guide to using agentic AI tools for research
-- [Generative AI for Economic Research: Use Cases and Implications](https://www.nber.org/papers/w32281) - Anton Korinek (December 2024): Comprehensive overview of LLM applications in research
-- Note: While focused on economics, techniques generalize to other academic and applied research fields
+#### Research Tools and Advanced Techniques (Slides 12, 13, 16)
+- **Slide 12**: [NotebookLM example - analyzing multiple papers with Gemini](https://gemini.google.com/share/ab0a7d5ce6ea) - Using NotebookLM for multi-document research synthesis
+- **Slide 13**: [Zotero integration with LLMs](https://www.zotero.org) - Organizing research sources and integrating with AI tools
+- **Slide 16**: [Advanced techniques - comparison matrix and gap analysis](https://gemini.google.com/share/ab0a7d5ce6ea) - Using Gemini to compare papers, build comparison charts, and identify research gaps
 
 ### Workshop 5: Advanced AI Topics — Coding, Models & Agents
 **Date**: December 12, 2025 @ 2pm EST
@@ -203,6 +183,11 @@ Follow along with these LLM platforms:
 ### Video Resources
 - [Andrej Karpathy: "Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Andrej Karpathy: "How I use LLMs"](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### AI for Research
+- [AI Agents for Economic Research](https://www.nber.org/papers/w32825) - Anton Korinek (August 2025): Guide to using agentic AI tools for research tasks
+- [Generative AI for Economic Research: Use Cases and Implications](https://www.nber.org/papers/w32281) - Anton Korinek (December 2024): Comprehensive overview of LLM applications in research
+- Note: While focused on economics, techniques generalize to other academic and applied research fields
 
 ### AI Economics & Policy
 - [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf?raw=1)
