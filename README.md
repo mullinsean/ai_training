@@ -208,6 +208,7 @@ Follow along with these LLM platforms:
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Official course on using Claude Code for development
 - [Writing a good CLAUDE.md file](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - Best practices for configuring Claude Code projects
 - [Social Science Tech Stack (Kevin Bryan)](https://kevinbryanecon.com/techstack.html) - Guide to modern development tools for researchers and analysts
+- [Building with Cursor](https://cursorai.notion.site/Building-with-Cursor-public-273da74ef0458051bf22e86a1a0a5c7d) - Comprehensive guide to using Cursor AI for development
 
 ### AI for Research
 - [Anton Korinek - AI Agents for Economic Research](https://www.genaiforecon.org/JEL-2025-Aug-AIAgents.pdf) (August 2025): Guide to using agentic AI tools for research tasks
