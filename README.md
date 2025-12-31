@@ -239,4 +239,4 @@ These materials are provided for educational purposes for training participants.
 
 ---
 
-*Last updated: December 2, 2025*
+*Last updated: December 12, 2025*
