@@ -31,7 +31,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Best practices for building prompt libraries
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf?raw=1)
+- [View slide deck](./slide_decks/AI%20Training%20-%20Workshop%201%20-%20TA%20-%202025.10.29.pdf)
 
 **Examples**:
 
@@ -41,7 +41,7 @@ This training program consists of five workshops scheduled over six weeks:
 | 2 | [Speech summary (simple)](https://claude.ai/share/bf761bf1-82ad-4f7a-8cd1-9e1bea823073) | Claude Sonnet 4.5 | |
 | 3 | [Speech summary (with generated prompt)](https://claude.ai/share/00762401-0402-4005-b28a-c2e640ee6b83) | Claude Sonnet 4.5 | |
 | 4 | [Generating a prompt for summarizing a speech](https://claude.ai/share/42ed94b9-8091-4a4c-ab88-ccdc1aa17651) | Claude Sonnet 4.5 | |
-| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf?raw=1), [file 2](./examples/workshop1/2-Sample-Briefing-Note.pdf?raw=1) |
+| 5 | [Generating project proposal from data + template](https://gemini.google.com/share/0311815fbafc) | Gemini Pro 2.5 | [file 1](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf), [file 2](./examples/workshop1/2-Sample-Briefing-Note.pdf) |
 
 ### Workshop 2: AI for Writing, Analysis & Communications
 **Date**: November 14, 2025 @ 2pm EST
@@ -53,7 +53,7 @@ This training program consists of five workshops scheduled over six weeks:
 - Document transformation and formatting
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%232%20-%202025.11.14.pdf?raw=1)
+- [View slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%232%20-%202025.11.14.pdf)
 
 **Examples**:
 
@@ -87,12 +87,12 @@ This training program consists of five workshops scheduled over six weeks:
 - Enhancing creativity through brainstorming and prototyping
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%233%20-%202025.11.19.pdf?raw=1)
+- [View slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%233%20-%202025.11.19.pdf)
 
 **Examples**:
 
 #### Project Management (Slide 6)
-- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20%28Beyond%20Zero%29.pdf?raw=1) - Sample project overview document for context
+- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20%28Beyond%20Zero%29.pdf) - Sample project overview document for context
 
 #### Data Analysis with Excel (Slide 11)
 Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64):
@@ -100,8 +100,8 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 | # | Process Step | Activity | Chat Transcript | Outputs |
 |---|--------------|----------|-----------------|---------|
 | 1 | Explore Data Set | Generate table of average fuel efficiency by manufacturer | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [csv](https://claude.ai/public/artifacts/1beaf9e3-ae3c-4570-838a-8eec5c4b8da7), [md](https://claude.ai/public/artifacts/ea5fd518-5e90-4477-b3f1-0bf785679df8) |
-| 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx?raw=1) |
-| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | fuel efficiency: [xlsx](./examples/workshop3/fuel_economy_analysis.xlsx?raw=1) hybrid intro: [xlsx](./examples/workshop3/hybrid_improvements.xlsx?raw=1) |
+| 2 | Build a Model in Excel | Build model that calculates value of fuel efficiency savings between two vehicles | [chat](https://claude.ai/share/eb9d0574-4d06-41e2-b646-7b9807ebc057) | [xlsx](./examples/workshop3/hybrid_breakeven_calculatorv2.xlsx) |
+| 3 | Investigate Trends | What vehicles have shown biggest increase in fuel efficiency? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | fuel efficiency: [xlsx](./examples/workshop3/fuel_economy_analysis.xlsx) hybrid intro: [xlsx](./examples/workshop3/hybrid_improvements.xlsx) |
 | 4 | Generating Insights | Ask model to generate insights from the data | [chat](https://claude.ai/share/81ac273d-7df3-489c-a29d-684a1630fb4e) | [md](https://claude.ai/public/artifacts/c990ca4a-383e-4794-9a84-a9d728653e75) |
 
 #### Productivity Techniques (Slides 12-14)
@@ -120,7 +120,7 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 - Reading and reviewing academic papers with LLMs
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%234%20-%202025.12.02.pdf?raw=1)
+- [View slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%234%20-%202025.12.02.pdf)
 
 **Examples**:
 
@@ -128,10 +128,10 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 
 | Use Case | Example | Model | Outputs |
 |----------|---------|-------|---------|
-| General overview of new topic | Overview of the geopolitical situation in South Korea | ChatGPT | [chat](https://chatgpt.com/share/692efd6c-e05c-8001-8c6c-c5dd1bb8ebcd), [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20(2022%E2%80%932025).pdf?raw=1) |
-| Deep dive into legislative process | History of Bill C-27 (Digital Charter Act) | Gemini | [chat](https://gemini.google.com/share/a07a94650ae7), [pdf](./examples/workshop4/Bill%20C-27%20Hansard%20Review.pdf?raw=1) |
-| Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/1f9039ad51ca), [pdf](./examples/workshop4/Budget%202025%20Climate%20Policy%20Scan.pdf?raw=1) |
-| Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analysis-financial-results-fro-RnymxZX6S.mVS7.dGUVJEw#0), [pdf](./examples/workshop4/Financial%20Results%20from%20Companies%20in%20the%20Nuclear%20Sector.pdf?raw=1) |
+| General overview of new topic | Overview of the geopolitical situation in South Korea | ChatGPT | [chat](https://chatgpt.com/share/692efd6c-e05c-8001-8c6c-c5dd1bb8ebcd), [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20(2022%E2%80%932025).pdf) |
+| Deep dive into legislative process | History of Bill C-27 (Digital Charter Act) | Gemini | [chat](https://gemini.google.com/share/a07a94650ae7), [pdf](./examples/workshop4/Bill%20C-27%20Hansard%20Review.pdf) |
+| Summarize and categorize stakeholder reactions | Media and Stakeholder Reception to Budget 2025 | Gemini | [chat](https://gemini.google.com/share/1f9039ad51ca), [pdf](./examples/workshop4/Budget%202025%20Climate%20Policy%20Scan.pdf) |
+| Financial analysis of a sector | Financial Analysis of Companies in the Nuclear Sector | Perplexity.ai | [chat](https://www.perplexity.ai/search/analysis-financial-results-fro-RnymxZX6S.mVS7.dGUVJEw#0), [pdf](./examples/workshop4/Financial%20Results%20from%20Companies%20in%20the%20Nuclear%20Sector.pdf) |
 
 #### Research Tools and Advanced Techniques (Slides 12, 13, 16)
 - **Slide 12**: [NotebookLM example](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) - Using NotebookLM for multi-document research synthesis
@@ -154,7 +154,7 @@ Fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca
 - Using agents beyond coding for workflow automation
 
 **Materials**:
-- [Download slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%235%20-%202025.12.12.pdf?raw=1)
+- [View slide deck](./slide_decks/AI%20Adoption%20Training%20-%20Workshop%20%235%20-%202025.12.12.pdf)
 
 **Examples**:
 
@@ -166,8 +166,8 @@ Demonstrates the simplest entry point for coding with LLMs: prompting the model 
 | # | Description | Link/File |
 |---|-------------|-----------|
 | 1 | Chat transcript with Gemini generating the code | [chat](https://gemini.google.com/share/2b8c35d6ce46) |
-| 2 | Python script generated by Gemini to fetch G7 GDP data from World Bank API and create visualizations | [plot_GDP_Gemini.py](./examples/workshop5/plot_GDP_Gemini.py?raw=1) |
-| 3 | Generated output: Two charts showing GDP growth (per capita and total) for G7 countries, normalized to 2010=100 | [G7_GDP_plots.png](./examples/workshop5/G7_GDP_plots.png?raw=1) |
+| 2 | Python script generated by Gemini to fetch G7 GDP data from World Bank API and create visualizations | [plot_GDP_Gemini.py](./examples/workshop5/plot_GDP_Gemini.py) |
+| 3 | Generated output: Two charts showing GDP growth (per capita and total) for G7 countries, normalized to 2010=100 | [G7_GDP_plots.png](./examples/workshop5/G7_GDP_plots.png) |
 
 ---
 
@@ -216,7 +216,7 @@ Follow along with these LLM platforms:
 - Note: While focused on economics, techniques generalize to other academic and applied research fields
 
 ### AI Economics & Policy
-- [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf?raw=1)
+- [The Economics of the AI Boom - Sean Mullin, Canada2020 Conference (September 2025)](https://www.seanmullin.ca/presentations/Economics_of_the_AI_Boom-Canada2020-Sept2025.pdf)
 
 ### Educational Programs
 - [Alberta AI Masterclass](https://masterclass.albertaaiacademy.com/)
